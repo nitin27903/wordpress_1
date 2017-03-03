@@ -2,3 +2,5 @@
 Testing Wordpress default directory
 
 Testing modifications on GitHub directly
+
+Test 2 ...
